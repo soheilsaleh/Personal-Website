@@ -1,0 +1,140 @@
+*{
+    font-family: roboto;
+}
+
+
+.main{
+    background-image: url(../images/bg-photo.jpg);
+}
+
+
+.soheil{
+    width: 50vh;
+    height: 45vh;
+    border: solid 1vw;
+    border-radius: 7rem;
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+.head{
+    display: inline-block;
+    color: #F5DF4D;
+    border: solid 1vh;
+    border-radius: 7rem;
+    margin-left: 5vw;
+    margin-bottom: 3vh;
+    padding: 1vw;
+}
+
+
+.about{
+    display: inline-block;
+    background-color: #6667AB;
+    color: white;
+    font-size: 3vh;
+    padding: 2vh;
+    margin-top: 5vh;
+    text-align: center;
+    text-transform: capitalize;
+    border-radius: 10px;
+}
+
+
+.contact{
+    text-align: center;
+}
+
+
+
+.btn btn-danger btn-lg{
+    margin: 5vw;
+}
+
+
+.resumeHead{
+    display: inline-block;
+    color: green;
+    border: solid 5px;
+    border-radius: 5rem;
+}
+
+
+.resumeDiv{
+    text-align: center;
+    display: none;
+}
+
+
+.additional{
+    margin-bottom: 2vh;
+    text-align: center;
+    color: black;
+    
+}
+
+
+#data{
+    background-color: #6667AB;
+    color: white;
+    font-size: x-large;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+
+.copyright{
+    text-align: center;
+}
+
+
+.content{
+    display: none;
+}
+
+
+.loader{
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+
+.greeting{
+    background-color: antiquewhite;
+    width: 100%;
+}
+
+
+#downText{
+    color: blue;
+}
+
+
+.abilitiesDiv{
+text-align: center;
+}
+
+
+
+#nav{
+        position: fixed;
+        right: 0;
+        top: 0;
+        background-color: antiquewhite;
+        border-radius: 1rem;
+        margin-right: 2vw;
+}
+
+
+.languages{
+    display: inline-flex;
+    border-radius: 1rem;
+    background-color: antiquewhite;
+}
