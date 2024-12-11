@@ -210,7 +210,7 @@
                 <a target="_blank" href="https://instagram.com/soheil._.saleh"><img id="icon" src="images/instagram.png" alt="instagram"></a>
                 <a target="_blank" href="https://telegram.me/soheilsaleh0"><img id="icon" src="images/telegram.png" alt="instagram"></a>
                 <a target="_blank" href="https://wa.me/989114302431"><img id="icon" src="images/whatsapp.png" alt="instagram"></a>
-                <a target="_blank" href="mailto:soheilsaleh0@gmail.com"><img id="icon" src="images/github.png" alt="github"></a>
+                <a target="_blank" href="https://github.com/soheilsaleh"><img id="icon" src="images/github.png" alt="github"></a>
                 <a target="_blank" href="mailto:soheilsaleh0@gmail.com"><img id="icon" src="images/email.png" alt="email"></a>
               </div>
           </section>
